@@ -87,15 +87,14 @@ The CLDR version and data used by this package can be easily updated by changing
 
 This software is free to use under the Yahoo Inc. BSD license. See the [LICENSE file][] for license text and copyright information.
 
-The CLDR data contained in this packaged is licensed under the Apache, ICU, and Unicode licenses. See the [CLDR license files][] for their license text and copyright information.
+The CLDR data contained in this packaged is licensed under the Apache, ICU, and Unicode licenses. See the CLDR license files for their license text and copyright information.
 
 
 [CLDR]: http://cldr.unicode.org/
 [FormatJS]: http://formatjs.io/
-[npm]: https://www.npmjs.org/package/formatjs-extract-cldr-data
-[npm-badge]: https://img.shields.io/npm/v/formatjs-extract-cldr-data.svg?style=flat-square
+[npm]: https://www.npmjs.org/package/@ember-intl/formatjs-extract-cldr-data
+[npm-badge]: https://img.shields.io/npm/v/@ember-intl/formatjs-extract-cldr-data.svg?style=flat-square
 [travis]: https://travis-ci.org/ember-intl/formatjs-extract-cldr-data
 [travis-badge]: https://img.shields.io/travis/ember-intl/formatjs-extract-cldr-data/master.svg?style=flat-square
 [make-plural]: https://github.com/eemeli/make-plural.js
-[LICENSE file]: https://github.com/ember-intl/formatjs-extract-cldr-data/blob/master/LICENSE.md
-[CLDR license files]: https://github.com/ember-intl/formatjs-extract-cldr-data/tree/master/data
+[LICENSE file]: https://github.com/ember-intl/formatjs-extract-cldr-data/blob/master/LICENSE
