@@ -79,7 +79,15 @@ Boolean for whether or not `pluralRuleFunction`s should be extracted for the spe
 
 #### `relativeFields`
 
-Boolean for whether or not `fields` should be extracted for the specified `locales`. The field data that's extracted is limited to the data required to support FormatJS' relative time formatting features, and it's organized in the shape described above.
+Boolean for whether or not `fields` should be extracted for the specified `locales`. The field data that's extracted is limited to the data required to support FormatJS' relative time formatting features, and it's organized in the shape described below.
+
+```js
+{ "locale": "bh", "numbers": { "decimal": { "long": [ [1000, { "other": ["0K", 1]}], [10000, { "other": ["00K", 2] }], ...] } } }
+```
+
+#### `numberFields`
+
+Boolean for whether or not `numbers` should be extracted for the specified `locales`. The field data that's extracted is limited to the data required to support FormatJS' number formatting features, and it's organized in the shape described above.
 
 
 ## Updating the CLDR Data
