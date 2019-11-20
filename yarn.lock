@@ -64,20 +64,20 @@ center-align@^0.1.1:
     align-text "^0.1.3"
     lazy-cache "^1.0.3"
 
-cldr-core@^34.0.0:
-  version "34.0.0"
-  resolved "https://registry.yarnpkg.com/cldr-core/-/cldr-core-34.0.0.tgz#2e9d1f9909868e93e70c4813a74f331af028d66c"
-  integrity sha512-PFHHn2SlqRdqD1ZC8Ddw5ZOSwJdqsmTY6fnOVsX5iMfOShqXs7QhpkIo4eOvz7rFdEivp/IrMDPs47Z4z1rD3g==
+cldr-core@^36.0.0:
+  version "36.0.0"
+  resolved "https://registry.yarnpkg.com/cldr-core/-/cldr-core-36.0.0.tgz#1d2148ed6802411845baeeb21432d7bbfde7d4f7"
+  integrity sha512-QLnAjt20rZe38c8h8OJ9jPND+O4o5O8Nw0TK/P3KpNn1cmOhMu0rk6Kc3ap96c5OStQ9gAngs9+Be2sum26NOw==
 
-cldr-dates-full@^34.0.0:
-  version "34.0.0"
-  resolved "https://registry.yarnpkg.com/cldr-dates-full/-/cldr-dates-full-34.0.0.tgz#e2f9c254ab7d6b0a5d28481737138530eebb3be6"
-  integrity sha512-mKGQF16YAEeMOlTA1oT8vWOnm2VuCE1yGQQN7CbnKirVhXigoa0uUiOwjajCZSVpLMyTwWi8AvlY1pjNlX6uRw==
+cldr-dates-full@^36.0.0:
+  version "36.0.0"
+  resolved "https://registry.yarnpkg.com/cldr-dates-full/-/cldr-dates-full-36.0.0.tgz#14705efdf26504eefa6683f92dd81c3c517e0b54"
+  integrity sha512-wwJw36kudI0BCN/JOcuHPJi+zGlquw1AbRkj9okyO0aKx6kuyjzCN1HBAX4m+aOMXRPA+yA46/aBfOdGjQ0VJg==
 
-cldr-numbers-full@^34.0.0:
-  version "34.0.0"
-  resolved "https://registry.yarnpkg.com/cldr-numbers-full/-/cldr-numbers-full-34.0.0.tgz#f9e62bd4dda1fb4e17c7a3e4b170da2263f43dac"
-  integrity sha512-+Bqxnym5Fv81u/iBoZvy2dUfPQdAc4KbX4QDptq9PLx846iQkRN0UKo3t5xZu97rUlRw2fFGaRt+KO6iMPo+RA==
+cldr-numbers-full@^36.0.0:
+  version "36.0.0"
+  resolved "https://registry.yarnpkg.com/cldr-numbers-full/-/cldr-numbers-full-36.0.0.tgz#4e366fd8d558ceeac39b3fe3e31f65788dab22a7"
+  integrity sha512-nG+qZAry9eomM69V2gEm6WEAUrx/nSpYq5rU2io9mwWRnEpSM4WqGN96neLOdbw5P6eh0zBVx6GiaUs4JSv5Tg==
 
 cliui@^2.1.0:
   version "2.1.0"
